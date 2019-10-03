@@ -14,5 +14,8 @@ Made it for fun to try my hand at NP completeness problems. Turns out I'm no gen
 ### Solving Preview
 ![Solving Preview](solving_preview.gif)
 
+### Solved Preview
+![Solved Preview](solved_preview.gif)
+
 ### Toggle Help Preview
 ![Toggle Help Preview](toggle_help_preview.gif)
