@@ -12,7 +12,7 @@ Made it for fun to try my hand at NP completeness problems. Turns out I'm no gen
 ![New Board Preview](new_board_preview.gif)
 
 ### Solving Preview
-![Solving Preview](solving_preview.gif)
+![Solving Preview](solvingb_preview.gif)
 
 ### Solved Preview
 ![Solved Preview](solved_preview.gif)
